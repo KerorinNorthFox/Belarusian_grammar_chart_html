@@ -5,4 +5,4 @@ Belarusian grammar chart.
  - Personal pronoun
  - Possessive pronoun
  - Demonstrative pronoun
- # This is tetative website. Update often.
+ # This is tentative website. Update often.
